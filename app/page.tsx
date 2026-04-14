@@ -117,12 +117,12 @@ export default function HomePage() {
             <AnimateOnScroll delay={80} className="md:col-span-2">
               <div className="relative h-64 md:h-72 overflow-hidden glass-card">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!4v1700000000000!6m8!1m7!1sCAoSLEFGMVFpcE9ZbGdVeHhSQlFPVFByNlJ3SG9OeEFwcHh3VVpTNXZ0Y0pWUzZn!2m2!1d45.0177!2d-74.7305!3f180!4f0!5f0.7820865974627469"
+                  src="https://maps.google.com/maps?layer=c&cbll=45.0173146,-74.7263524&cbp=11,0,0,0,0&output=svembed"
                   width="100%" height="100%"
                   style={{ border: 0, filter: "brightness(0.85) saturate(0.9)" }}
                   allowFullScreen loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Street View"
+                  title="Street View — 33 First Street East, Cornwall"
                   className="absolute inset-0"
                 />
                 <div className="absolute bottom-3 left-3 flex items-center gap-2 glass-card px-3 py-1.5">
@@ -142,12 +142,12 @@ export default function HomePage() {
           <AnimateOnScroll delay={100}>
             <div className="mt-4 relative h-52 overflow-hidden glass-card">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2820.5!2d-74.7305!3d45.0177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cca2a3b4e1b5a5b%3A0x5e5e5e5e5e5e5e5e!2s33+First+St+E%2C+Cornwall%2C+ON+K6H+1Y3!5e0!3m2!1sen!2sca!4v1700000000000"
+                src="https://maps.google.com/maps?q=33+First+Street+East,+Cornwall,+ON&ll=45.0173146,-74.7263524&z=17&output=embed"
                 width="100%" height="100%"
                 style={{ border: 0, filter: "invert(90%) hue-rotate(180deg) brightness(0.7) saturate(0.6)" }}
                 allowFullScreen loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Map"
+                title="Map — 33 First Street East, Cornwall"
                 className="absolute inset-0"
               />
               <div className="absolute bottom-3 right-3">
