@@ -6,7 +6,7 @@ import AnimateOnScroll from "@/components/AnimateOnScroll";
 const highlights = [
   { number: "13", label: "Residential Suites" },
   { number: "DT", label: "Downtown Cornwall" },
-  { number: "2025", label: "Newly Renovated" },
+  { number: "2026", label: "Newly Renovated" },
   { number: "MGI", label: "Professionally Managed" },
 ];
 
