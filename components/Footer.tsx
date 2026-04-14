@@ -32,7 +32,7 @@ export default function Footer() {
             </a>
             <a href="https://maps.google.com/?q=33+First+Street+East+Cornwall+Ontario" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 text-sm text-platinum-dark hover:text-platinum-light transition-colors group" style={{ fontFamily: "'Outfit', sans-serif" }}>
               <MapPin size={13} className="text-blue group-hover:text-blue-light transition-colors mt-0.5" />
-              <span>33 First Street East<br />Cornwall, ON K6H 1Y3</span>
+              <span>33 First Street East<br />Cornwall, ON K6H 1K5</span>
             </a>
           </div>
         </div>

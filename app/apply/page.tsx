@@ -243,7 +243,7 @@ export default function ApplyPage() {
                     <div className="w-9 h-9 border border-blue/30 bg-blue/10 flex items-center justify-center flex-shrink-0"><MapPin size={14} className="text-blue-pale" /></div>
                     <div>
                       <p className="text-[0.62rem] tracking-[0.15em] text-blue-pale uppercase mb-0.5" style={{ fontFamily: "'Outfit', sans-serif" }}>Address</p>
-                      <p className="text-sm text-platinum-light" style={{ fontFamily: "'Outfit', sans-serif" }}>33 First Street East<br />Cornwall, ON K6H 1Y3</p>
+                      <p className="text-sm text-platinum-light" style={{ fontFamily: "'Outfit', sans-serif" }}>33 First Street East<br />Cornwall, ON K6H 1K5</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">

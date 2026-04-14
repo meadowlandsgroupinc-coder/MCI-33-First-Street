@@ -108,7 +108,7 @@ export default function HomePage() {
               <div className="absolute inset-0 bg-gradient-to-t from-obsidian/60 to-transparent" />
               <div className="absolute bottom-6 left-6 glass-card px-5 py-3">
                 <p className="font-display text-lg text-platinum-light" style={{ fontFamily: "'Cormorant Garamond', serif" }}>33 First Street East</p>
-                <p className="text-xs text-platinum-dark" style={{ fontFamily: "'Outfit', sans-serif" }}>Cornwall, Ontario K6H 1Y3</p>
+                <p className="text-xs text-platinum-dark" style={{ fontFamily: "'Outfit', sans-serif" }}>Cornwall, Ontario K6H 1K5</p>
               </div>
             </div>
           </AnimateOnScroll>
